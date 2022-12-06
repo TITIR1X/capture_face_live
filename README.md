@@ -8,8 +8,6 @@ The programs I created for the project were designed to analyze on a massive sca
 
 - tested in python 3.10.0
 
-Libraries used:
-
 - pip install mediapipe==0.8.11
 
 - pip install opencv-python==4.6.0.66
