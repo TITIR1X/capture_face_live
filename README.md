@@ -4,7 +4,7 @@ This program was created for a project called PsicoRecon. The purpose of this pr
 
 The programs I created for the project were designed to analyze on a massive scale.
 
-**Instalación:** tested in python 3.10.0
+**Installation:** tested in python 3.10.0
 
 - pip install mediapipe==0.8.11
 
