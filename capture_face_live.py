@@ -1,3 +1,12 @@
+import os
+import cv2
+import shutil
+
+try:
+ os.system('color 6')
+ os.system('cls')
+except:os.system('clear')
+  
 print("""
   ____              _______ _   ______ _       ___ __     __
  |  _ \            /__   __(_)/__   __(_) _ __|_| |\ \\\\  / /
@@ -8,12 +17,6 @@ print("""
          __/ |                                               
         |___/                           
 """)
-
-
-import cv2
-import os
-import shutil
-
 # Importar el módulo face_mesh y drawing_utils de la biblioteca mediapipe.
 import mediapipe as mp
 mp_face_mesh = mp.solutions.face_mesh
