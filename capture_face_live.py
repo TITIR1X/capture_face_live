@@ -133,3 +133,6 @@ with mp_face_mesh.FaceMesh(
 
 cap.release()
 cv2.destroyAllWindows()
+
+print('/ncapture_face_live.py: Programa finalizado.')
+exit()
